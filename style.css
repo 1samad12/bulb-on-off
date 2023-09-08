@@ -1,0 +1,22 @@
+*{
+    background-color: black;
+}
+.on{
+    justify-content: center;
+      margin: 10%;
+      padding: 0.2%;
+      display: inline-block;
+      display: flex;
+    align-items: center;
+    background-color: aqua;
+}
+.off{
+    justify-content: center;
+    margin: 10%;
+    padding: 0.2%;
+    display: inline-block;
+    display: flex;
+  align-items: center;
+  background-color: aqua;
+ 
+}
